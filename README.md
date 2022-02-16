@@ -4,7 +4,7 @@
 #### Instrukcja użytkowania
 W celu uruchomienia aplikacji należy pobrać projekt a następnie należy wprowadzić w folderze z projektem polecenie do terminala:
 - npm start 
-(wymagane jest zainstalowanego node js)
+(wymagane jest zainstalowanie node js)
 
 #### Realizacja projektu
 Aplikacja posiada wyszystkie określone wymagania funkcjonalne aplikacji w zakresie warstwy wizualnej. 
