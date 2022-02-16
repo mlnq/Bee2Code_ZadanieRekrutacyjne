@@ -3,7 +3,7 @@
 
 #### Instrukcja użytkowania
 W celu uruchomienia aplikacji należy pobrać projekt a następnie należy wprowadzić w folderze z projektem polecenia do terminala:
-- npm init
+- npm install
 - npm start 
 (wymagane jest zainstalowanie node js)
 
