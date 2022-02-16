@@ -2,7 +2,8 @@
  **Wykonawca:** Michał Mlenko
 
 #### Instrukcja użytkowania
-W celu uruchomienia aplikacji należy pobrać projekt a następnie należy wprowadzić w folderze z projektem polecenie do terminala:
+W celu uruchomienia aplikacji należy pobrać projekt a następnie należy wprowadzić w folderze z projektem polecenia do terminala:
+- npm init
 - npm start 
 (wymagane jest zainstalowanie node js)
 
