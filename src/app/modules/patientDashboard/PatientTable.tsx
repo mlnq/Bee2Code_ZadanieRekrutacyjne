@@ -62,7 +62,7 @@ export default observer(function PatientTable() {
   useEffect(()=>{
     if(patients.length<=0)
     {
-      setTimeout(()=>loadPatients(), 3000);
+      setTimeout(()=>loadPatients(), 2000);
     }
     
   },[patients])
